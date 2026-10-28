@@ -1,0 +1,14 @@
+{
+  "version": "v1.0.6.50.1",
+  "fecha": "13/10/26",
+  "cambios": [
+    "Mejora en la detección del Plan Contingencia Red."
+  ],
+  "archivos": {
+    "gtfs": "GTFS_20261003.zip",
+    "deco": "DECO_VIGENTES_20260829.zip",
+    "registro": "REGISTRO_04_10_26.json",
+    "contingencia": "contingencia.json",
+    "terminales": "GeoJson.geojson"
+  }
+}
